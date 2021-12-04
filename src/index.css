@@ -1,0 +1,101 @@
+body{
+  font-family: 'Roboto Slab', serif;
+}
+
+.HeaderDiv{
+  padding-top: 50px;
+  padding-bottom: 50px;
+ 
+  background-color: rgba(0, 0, 0, 0.842);
+  color: rgba(255, 255, 255, 0.925);
+}
+
+.Heading{
+  font-size: 400%;
+
+
+}
+
+.secondHeading,.Heading{
+  padding-left: 20%;
+}
+
+.ItemContainer{
+  margin-top: 6%;
+}
+
+button.btn.btn-secondary.btn-sm{
+  margin-left: 10px;
+}
+
+body
+{
+  font-family: 'Bree Serif', serif !important;
+}
+
+.buynowBtn{
+  margin-top: 50px;
+  margin-left: 120px; 
+}
+
+.EmptyCard{
+  margin-left: 35%;
+  color: darkgray  ;
+}
+
+.main {
+  border: 2px solid rgba(0, 0, 0, 0.479);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+  border-radius: 10px;
+}
+.note{
+  color: red !important;
+  font-size: medium;
+  font-weight: bolder;
+  padding-left: 90px;
+  padding-right: 20px;
+}
+
+.subheading {
+  color: black !important;
+  font-size: 17px;
+  padding-left: 100px;
+}
+.heading {
+  color: black !important;
+  padding-left: 70px;
+}
+
+.inputfield {
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.685);
+  margin: 10px;
+  width: 300px;
+  font-size: medium;
+  border-radius: 5px;
+}
+
+.submitdiv {
+  padding-left: 120px !important;
+  font-weight: bolder;
+  width: 100px;
+}
+
+.submitbtn {
+  padding: 10px;
+  font-size: 15px;
+  margin-left: 70px !important;
+  border-radius: 5px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.637);
+}
+
+.buynowDiv{
+  width: 50%;
+  margin-left: 20%;
+  margin-top: 40px;
+}
